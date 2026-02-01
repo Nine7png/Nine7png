@@ -1,4 +1,4 @@
-<h1 align="center">Olá 👋, Me chamo Alex Ferreira também atendo como Nine</h1>
+<h1 align="center">Olá 👋, Me chamo Alex Ferreira mas pode me chamar de Nine</h1>
 <h3 align="center">Estou estudando atualmente para me tornar um desenvolver Back-End</h3>
 
 
